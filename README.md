@@ -1,2 +1,2 @@
-# visualizing_lyrics_of_billie_eilish_songs
+# visualizing_lyrics
 This is my personal project for fun :-)
